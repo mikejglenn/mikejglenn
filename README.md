@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on anything tech (but mainly cloud ☁️, games 🎮, and AI 🤖)
 - 🤔 I’m looking for help with getting a software engineering gig 😉
 - 💬 Ask me about anything tech! Maybe I can help.
-- 📫 How to reach me: mjglenn+lf@gmail.com
+- 📫 How to reach me: mike@mikeglenn.net
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can juggle and enjoy retro video games.
 
