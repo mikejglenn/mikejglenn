@@ -1,6 +1,5 @@
 ## Hello World 👋🌎
 
-- 🔭 I’m currently working on [Open Cloud](https://github.com/mikejglenn/open-cloud) a cloud resource management utility.
 - 🌱 I’m currently learning TypeScript and the PERN (PostgreSQL, Express, React, Node.js) stack. Also TailwindCSS and DaisyUI.
 - 👯 I’m looking to collaborate on anything tech (but mainly cloud ☁️, games 🎮, and AI 🤖)
 - 🤔 I’m looking for help with getting a software engineering gig 😉
